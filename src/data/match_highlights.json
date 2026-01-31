@@ -1,0 +1,111 @@
+{
+  "highlights": [
+    {
+      "puzzleId": 1,
+      "matchContext": "T20 World Cup 2016 Final",
+      "triviaFact": "Carlos Brathwaite hit 4 sixes off the final over to win the title",
+      "playerHighlight": "Marlon Samuels scored a crucial 85*(66) in a pressure-packed final"
+    },
+    {
+      "puzzleId": 2,
+      "matchContext": "T20 World Cup 2021",
+      "triviaFact": "Pakistan's historic first win against India in T20 World Cup history",
+      "playerHighlight": "Shaheen Afridi's stunning spell of 3/31 including early Sharma and Rahul wickets"
+    },
+    {
+      "puzzleId": 3,
+      "matchContext": "T20 World Cup 2022",
+      "triviaFact": "One of the greatest T20 chases ever witnessed at the MCG",
+      "playerHighlight": "Virat Kohli's legendary 82*(53) - considered the best T20I innings ever"
+    },
+    {
+      "puzzleId": 4,
+      "matchContext": "T20 World Cup 2022 Semi-Final",
+      "triviaFact": "England demolished India's batting to reach the final",
+      "playerHighlight": null
+    },
+    {
+      "puzzleId": 5,
+      "matchContext": "T20 World Cup 2022 Final",
+      "triviaFact": "England won their second T20 World Cup title in dominant fashion",
+      "playerHighlight": null
+    },
+    {
+      "puzzleId": 6,
+      "matchContext": "T20 World Cup 2024 Final",
+      "triviaFact": "India won their second T20 World Cup, Kohli's 76 sealed victory against South Africa",
+      "playerHighlight": null
+    },
+    {
+      "puzzleId": 7,
+      "matchContext": "T20 World Cup 2016",
+      "triviaFact": "Chris Gayle smashed 100 off just 48 balls against England at Wankhede",
+      "playerHighlight": "Virat Kohli's composed 76 in his T20I farewell"
+    },
+    {
+      "puzzleId": 8,
+      "matchContext": "T20 World Cup 2024 Group Stage",
+      "triviaFact": "A low-scoring thriller in New York where India edged Pakistan by 6 runs",
+      "playerHighlight": "Rohit Sharma's explosive 57(39) set the foundation"
+    },
+    {
+      "puzzleId": 9,
+      "matchContext": "T20 World Cup 2024 Semi-Final",
+      "triviaFact": "India dominated England in Guyana, Axar Patel starring with bat and ball",
+      "playerHighlight": null
+    },
+    {
+      "puzzleId": 10,
+      "matchContext": "T20 World Cup 2022",
+      "triviaFact": "Pakistan's spinners dominated South Africa at the SCG, Shadab Khan with 3/22 and 52",
+      "playerHighlight": null
+    },
+    {
+      "puzzleId": 11,
+      "matchContext": "T20 World Cup 2016 Semi-Final",
+      "triviaFact": "Lendl Simmons' unbeaten 82 off 51 balls knocked India out at Wankhede",
+      "playerHighlight": null
+    },
+    {
+      "puzzleId": 12,
+      "matchContext": "T20 World Cup 2016",
+      "triviaFact": "One of the greatest T20 chases - England needed 229 and won with 2 balls to spare",
+      "playerHighlight": "Joe Root's masterful 83(44) anchored the impossible chase"
+    },
+    {
+      "puzzleId": 13,
+      "matchContext": "T20 World Cup 2024 Super 8s",
+      "triviaFact": "South Africa's bowlers restricted England to defend 163, securing a crucial Super 8 win",
+      "playerHighlight": "Quinton de Kock's explosive 65(38) set up South Africa's competitive total"
+    },
+    {
+      "puzzleId": 14,
+      "matchContext": "T20 World Cup 2016",
+      "triviaFact": "West Indies continued their march to the title with a gritty chase",
+      "playerHighlight": "Marlon Samuels guided West Indies home with an unbeaten 44*(31)"
+    },
+    {
+      "puzzleId": 15,
+      "matchContext": "T20 World Cup 2021",
+      "triviaFact": "Defending champions West Indies were demolished for just 55 - their lowest T20I score",
+      "playerHighlight": "Moeen Ali's 2/17 helped England bowl out West Indies in 14.2 overs"
+    },
+    {
+      "puzzleId": 16,
+      "matchContext": "T20 World Cup 2021",
+      "triviaFact": "South Africa kept their semi-final hopes alive with a comprehensive win",
+      "playerHighlight": "Anrich Nortje's pace was unplayable - 3/7 in 4 overs"
+    },
+    {
+      "puzzleId": 17,
+      "matchContext": "T20 World Cup 2024 Super 8s",
+      "triviaFact": "South Africa survived a scare to book their semi-final spot",
+      "playerHighlight": "Tabraiz Shamsi's leg-spin troubled the West Indies batters - 3/27"
+    }
+  ],
+  "defaultHighlight": {
+    "matchContext": "T20 World Cup",
+    "triviaFact": "A classic T20 World Cup encounter",
+    "playerHighlight": null
+  }
+}
